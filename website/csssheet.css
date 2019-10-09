@@ -1,0 +1,188 @@
+#wrapper
+{
+	max-width: 750px;
+	margin: 0 auto;	
+	background-color: #00B27A;
+}
+#wrapperlion
+{
+	max-width: 750px;
+	margin: 0 auto;	
+	background-color: #FFA502;
+}
+#wrapperwicked
+{
+	max-width: 750px;
+	margin: 0 auto;	
+	background-color: #176000;
+}
+#wrapperphantom
+{
+	max-width: 750px;
+	margin: 0 auto;	
+	background-color: #000000;
+}
+
+body
+{
+	background: #E0E0E0; 
+	font-family: Arial;
+}
+
+#phantom
+{
+	color: white;
+}
+#banner
+{
+	height: 100px;
+	width: 750px;
+	background-color: red;
+}
+
+#nav
+{
+	height: 30px;
+	width: 750px;
+	margin-top:8px;
+}
+
+#content
+{
+	height: 695px;
+	width: 480px;
+	
+	margin-right: 10px;
+	margin-top: 8px;
+	float: left;
+	padding-left: 10px;
+	padding-top: 5px;
+}
+
+#sidebar
+{
+	height: 700px;
+	width: 240px;
+	margin-top: 8px;
+	margin-left: 500px;
+}
+
+.sidebarhome
+{
+	text-align: center;
+	text-decoration: none;
+}
+
+#footer
+{
+	height: 75px;
+	width: 750px;
+	margin-top: 8px;
+	text-align: center;
+	font-size: 11px;
+}
+
+h1
+{
+	text-align: center;
+}
+
+p
+{
+	font-size:16px;
+	color: black;
+}
+
+#Adult
+{
+	float: left; 
+	margin-right: 10px;
+}	
+
+#Senior
+{
+	float: left; 
+	margin-right: 10px;
+}
+
+#Child
+{
+	float: left; 
+	margin-right: 10px;
+}
+
+#firstname
+{
+	float: left; 
+	margin-right: 10px;
+}
+
+#lastname
+{
+	float: left; 
+	margin-right: 10px;
+}
+
+#firstlineofaddress
+{
+	float: left; 
+	margin-right: 10px;
+}
+.sidebar
+{
+	color: white;
+}
+
+#sitemap
+{
+	height: 50px;
+	width: 750px;
+	background-color: green;
+	
+	display: inline;
+}
+#sitemap li 
+{
+	display:inline;
+	padding-right: 10px;
+}
+
+#submit
+{
+	margin: 40px;
+}
+
+a:link 
+{
+    text-decoration: none;
+}
+
+a:visited 
+{
+    text-decoration: none;
+}
+
+a:hover 
+{
+    text-decoration: underline;
+}
+
+a:active 
+{
+    text-decoration: underline;
+}
+
+
+
+
+
+/* Generated via www.cssmenubuilder.com */
+
+.menu{margin:0 auto; padding:0; height:30px; width:100%; display:block; background:url('topMenuImages.png') repeat-x;}
+.menu li{padding:0; margin:0; list-style:none; display:inline;}
+.menu li a{float:left; padding-left:15px; display:block; color:rgb(255,255,255); text-decoration:none; font:12px Verdana, Arial, Helvetica, sans-serif; cursor:pointer; background:url('topMenuImages.png') 0px -30px no-repeat;}
+.menu li a span{line-height:30px; float:left; display:block; padding-right:15px; background:url('topMenuImages.png') 100% -30px no-repeat;}
+.menu li a:hover{background-position:0px -60px; color:rgb(255,255,255);}
+.menu li a:hover span{background-position:100% -60px;}
+.menu li a.active, .menu li a.active:hover{line-height:30px; font:12px Verdana, Arial, Helvetica, sans-serif; background:url('topMenuImages.png') 0px -90px no-repeat; color:rgb(255,255,255);}
+.menu li a.active span, .menu li a.active:hover span{background:url('topMenuImages.png') 100% -90px no-repeat;}
